@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@anil_chau98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anil_chau98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anil chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil chaudhary" height="30" width="40" /></a>
 <a href="https://fb.com/aniĺ chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aniĺ chaudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/aneel_chau98cod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aneel_chau98cod" height="30" width="40" /></a>
+<a href="https://instagram.com/aneel_chau98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aneel_chau98cod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
